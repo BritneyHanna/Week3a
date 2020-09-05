@@ -115,6 +115,7 @@ public class Week3a {
 
 	}
 
+//10.	Write a method that takes an array of double and returns the average of all the elements in the array.
 	public static double calculateAverage(double[] numbers) {
 		double sum = 0;
 		for (double number : numbers) {
